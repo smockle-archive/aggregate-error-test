@@ -1,0 +1,15 @@
+{
+  "name": "aggregate-error-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Clay Miller <clay@smockle.com> (https://www.smockle.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "aggregate-error": "^3.1.0"
+  }
+}

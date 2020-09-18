@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "lib": ["es5", "es6"],
+    "typeRoots": ["node_modules/@types", "@types"]
+  },
+  "include": ["src", "@types"],
+  "exclude": ["node_modules"]
+}
